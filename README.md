@@ -4,6 +4,12 @@
 
 ---
 
+## Web-Intertface
+
+<img width="1902" height="968" alt="Screenshot 2025-07-31 135114" src="https://github.com/user-attachments/assets/4ae59d3e-ac07-4548-a95f-9ce7a443dd87" />
+
+---
+
 ## Features
 
 - **Responsive UI**: Works seamlessly on mobile, tablet, and desktop devices.
